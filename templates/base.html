@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Base Template</title>
+    {% block head %}
+    {% endblock %}
+</head>
+<body>
+    <div>
+        <h1>From tha base template</h1>
+    </div>
+    <div class="header-container">
+        <a>Home</a>
+        <a>Order</a>
+        <a>Product</a>
+        <a>Ships</a>
+        <a>Contact us</a>
+        <a>About us</a>
+    </div>
+    <hr>
+    {% block content%}
+    {% endblock %}
+</body>
+</html>
