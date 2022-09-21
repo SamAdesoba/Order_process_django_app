@@ -13,7 +13,7 @@
 <body>
  <ul>
      {% for employee in employees%}
-         <li><a href="{% url 'order_process_app_html:employees-details' employee.pk %}">{{ employee.title }}  {{ employee.last_name }}</a></li>
+         <li><a href="{% url 'app_html:employees-details' employee.pk %}">{{ employee.title }}  {{ employee.last_name }}</a></li>
      {% endfor %}
  </ul>
 </body>
