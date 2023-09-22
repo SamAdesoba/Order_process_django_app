@@ -11,3 +11,5 @@ In the competitive landscape of the banking industry, understanding customer beh
   [OpenAI](https://www.openai.com/)
 
   ![Alt Text](image-url.png)
+
+> This is a blockquote.
