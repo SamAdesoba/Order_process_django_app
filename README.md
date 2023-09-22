@@ -9,3 +9,5 @@ This project involves the building of a model that accurately predicts the likel
 In the competitive landscape of the banking industry, understanding customer behaviour and predicting their preferences is crucial for targeted marketing and personalised product recommendations. In cases where banks fail to adopt certain techniques to determine the interest of customers in a product, losses are made due to low interest in financial products amongst targeted clients. By leveraging advanced analytics and machine learning techniques, the product propensity model empowers banks to optimise their marketing strategies, enhance customer satisfaction, and increase cross-selling and upselling opportunities.
 
   [OpenAI](https://www.openai.com/)
+
+  ![Alt Text](image-url.png)
